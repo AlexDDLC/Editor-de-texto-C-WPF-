@@ -1,0 +1,15 @@
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\bin\Debug\Corrector ortografico.exe.config
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\bin\Debug\Corrector ortografico.exe
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\bin\Debug\Corrector ortografico.pdb
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico.csprojAssemblyReference.cache
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\MainWindow.g.cs
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\App.g.cs
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico_MarkupCompile.cache
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico_MarkupCompile.lref
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\MainWindow.baml
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico.g.resources
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector_ortografico.Properties.Resources.resources
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico.csproj.GenerateResource.cache
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico.exe
+C:\Users\alexd\Desktop\UCSD\Algoritmos paralelos\Corrector ortografico\Corrector ortografico\obj\Debug\Corrector ortografico.pdb
